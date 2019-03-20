@@ -9,3 +9,8 @@ Operaciones Implementadas:
 - Escalas (Grises, Binaria)
 - Agregar Ruido
 - Fourier (no funcionando del todo bien).
+
+Requerimientos:
+- Glut.
+- GLEW.
+- OpenGL.
